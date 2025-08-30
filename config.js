@@ -8,11 +8,11 @@ global.confirmCode = ""
 
 global.owner = [
   ['393515533859', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true], // VIETATO ELIMINARE IL CREATORE (se lo fai te ne pentirai)
-  ['421233', 'Kinderino', true],
-  ['666214', 'matte', true], // al posto del X metti il tuo numero di telefono
-  ['393509', 'Gab', true],	
+  ['42', 'Kinderino', true],
+  ['66', 'matte', true], // al posto del X metti il tuo numero di telefono
+  ['39', 'Gab', true],	
   ['554198793335',],
-  ['xxxxxxxxxx'],
+  ['393516014657'],
   ['xxxxxxxxxx'],
 ]
 
