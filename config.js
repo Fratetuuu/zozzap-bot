@@ -10,8 +10,8 @@ global.owner = [
   ['393515533859', '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲', true], // VIETATO ELIMINARE IL CREATORE (se lo fai te ne pentirai)
   ['42', 'Kinderino', true],
   ['212785656050', 'matte', true], // al posto del X metti il tuo numero di telefono
-  ['212785656050', 'Gab', true],	
-  ['212785656050', 'Autismo', true],
+  ['212783879902', 'Gab', true],	
+  ['50490444001', 'Autismo', true],
   ['35679068416', 'Frau', true],
   ['xxxxxxxxxx'],
 ]
